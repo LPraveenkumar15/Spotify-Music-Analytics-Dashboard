@@ -83,7 +83,7 @@ Aspiring Data Analyst
 - 📉 Data Visualization
 
 ### 📫 Connect with Me
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/praveen-kumar-920034327/
 - GitHub: https://github.com/LPraveenkumar15
 
 ⭐ If you like this project, don't forget to star this repository.
