@@ -65,7 +65,7 @@ An interactive Spotify Music Analytics Dashboard built using Microsoft Power BI.
 - Built interactive reports for quick decision-making.
 ## 📷 Dashboard Preview
 Home page :https://github.com/LPraveenkumar15/Spotify-Music-Analytics-Dashboard/blob/main/Spotify%20Home%20page.png
-Overview page :
+Overview page :https://github.com/LPraveenkumar15/Spotify-Music-Analytics-Dashboard/blob/main/Spotify%20overview%20page%20after.png
 Artist page :
 Songs page :
 
